@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\hostClient\hostClient\bin\Debug\hostClient.exe.config
+C:\Users\HP\Downloads\hostClient\hostClient\bin\Debug\hostClient.exe
+C:\Users\HP\Downloads\hostClient\hostClient\bin\Debug\hostClient.pdb
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.Form1.resources
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.Properties.Resources.resources
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.exe
+C:\Users\HP\Downloads\hostClient\hostClient\obj\Debug\hostClient.pdb
